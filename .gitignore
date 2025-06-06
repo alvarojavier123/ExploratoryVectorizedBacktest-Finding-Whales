@@ -1,0 +1,12 @@
+aggTrades_2020_2024/
+__pycache__/
+*.py[cod]
+*.log
+*.csv
+*.zip
+*.sqlite
+.ipynb_checkpoints/
+env/
+venv/
+.venv/
+.env/
