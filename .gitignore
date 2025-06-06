@@ -1,4 +1,10 @@
 aggTrades_2020_2024/
+!aggTrades_aggregated_1h.csv
+!SIGNALS_THRESHOLD_100.csv
+!aggTrades_aggregated_1h.csv
+!BTC_USDT_1min_since_2020.csv
+!BTC_USDT_1h_(2020-2024)-TRAIN.csv
+!BTC_USDT_1h_(2024-2025)-TEST.csv
 __pycache__/
 *.py[cod]
 *.log
